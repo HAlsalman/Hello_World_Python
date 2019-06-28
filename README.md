@@ -1,2 +1,2 @@
 # Hello_World_Python
-first Python code
+first program in Python.
